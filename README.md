@@ -1,6 +1,5 @@
 # Longitudinal Patient Intelligence Platform — Synthetic Portfolio Version
 
-[![CI](https://github.com/aziz-ahmed/longitudinal-patient-intelligence-platform/actions/workflows/ci.yml/badge.svg)](https://github.com/aziz-ahmed/longitudinal-patient-intelligence-platform/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
