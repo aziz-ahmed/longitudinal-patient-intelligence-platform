@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+outputs/
+outputs-smoke/
+data/*.csv
+data/*.parquet
+*.pkl
+.pytest_cache/
+.DS_Store
